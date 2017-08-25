@@ -1,0 +1,50 @@
+{
+	"info":[
+	{
+		"name": "John Doe",
+		"locations": [{
+				"loc": "101 Station Landing, 101 Station Landing, Medford, MA 02155"
+			},
+			{
+				"loc": "56 Manemet Rd, Newton Centre, MA 02459"
+			},
+			{
+				"loc": "67 York Terrace, Brookline, MA 02446"
+			},
+			{
+				"loc": "101 Station Landing, 101 Station Landing, Medford, MA 02155"
+			}
+		]
+	},
+	{
+		"name": "Dave Stuart",
+		"locations": [{
+				"loc": "101 Station Landing, 101 Station Landing, Medford, MA 02155"
+			},
+			{
+				"loc": "67 York Terrace, Brookline, MA 02446"
+			},
+			{
+				"loc": "101 Station Landing, 101 Station Landing, Medford, MA 02155"
+			}
+		]
+	},
+	{
+		"name": "Liz Berkley",
+		"locations": [
+			{
+				"loc": "67 York Terrace, Brookline, MA 02446"
+			},
+			{
+				"loc": "75 Federal Street, 3rd Floor Boston, MA 02110"
+			},
+			{
+				"loc": "101 Station Landing, 101 Station Landing, Medford, MA 02155"
+			},
+			{
+				"loc": "67 York Terrace, Brookline, MA 02446"
+			}
+		]
+	}
+	]
+}
